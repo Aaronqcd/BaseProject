@@ -1,2 +1,2 @@
 # BaseProject
-Java idea spring mybatis springmvc
+Java idea maven spring mybatis springmvc
